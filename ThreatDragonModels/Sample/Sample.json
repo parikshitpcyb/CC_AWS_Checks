@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Sample",
+    "owner": "Parikshit Parihar",
+    "description": "This is a sample diagram for threat modelling."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Jyoti Kumar"
+  }
+}
